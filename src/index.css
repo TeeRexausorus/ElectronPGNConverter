@@ -1,0 +1,33 @@
+body {
+    background-color: #0e0e0e;
+    color: #fefefe;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+    margin: auto;
+    max-width: 38rem;
+    padding: 2rem;
+}
+
+.dropButton {
+    border: 2px solid #efefef;
+    border-radius: 4px;
+    padding: 8px;
+    display: inline-block;
+    width: 9.5rem;
+}
+
+.dragButton {
+    background: url("chess.jpeg");
+    background-size: contain;
+    border: 2px solid #fefefe;
+    border-radius: 4px;
+    padding: 5px;
+    display: inline-block;
+    margin: 2rem 0 0 0;
+    height: 10rem;
+    width: 10rem;
+}
+
+.hidden {
+    display: none;
+}

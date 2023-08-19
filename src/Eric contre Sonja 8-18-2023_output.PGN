@@ -1,0 +1,205 @@
+[Event ""]
+[Site ""]
+[Date "2023.8.18"]
+[Round ""]
+[White "Eric"]
+[Black "Sonja"]
+[TimeControl "1800"]
+[Result "1-0"]
+[ECO " "]
+
+
+{Commentaires automatiques de Chessmaster: Grandmaster Edition. 3 secondes par coup.
+
+			Blancs	Noirs
+Coup de
+livre		2	2
+Quitter le livre		1	0
+CMX approuve		24	17
+CMX désapprouve	6	12
+% d'accord		80%	59%
+Erreur
+totale		3.92	23.60
+Erreur utile		0.00	4.87
+Mat raté 		4	0
+Evolut. vers mat		0	1
+
+} 
+1.e4 
+{B00
+ Ouverture du Pion du Roi. L'ouverture du Pion du Roi est à la fois populaire et logique. Elle permet de contrôler le
+centre, d'ouvrir des lignes pour la Dame et le Fou, pour se diriger vers une partie ouverte dans laquelle la tactique prime sur
+les manuvres lentes.} 
+1...c5 
+{B20
+ Défense sicilienne. La défense sicilienne provient d'une longue lignée. Elle crée une position déséquilibrée dans
+laquelle les deux côtés ont toute latitude dans le jeu et permet aux noirs de le contrôler, jusqu'à un certain point.} 
+2.Nf3 
+{B27
+ Défense sicilienne / Variante du Cavalier du Roi. La réponse normale des blancs prépare d4 et évite de jouer des
+coups pénalisants commef4, d3 ou Cc3, qui ont leur propre justification.} 
+2...e6 
+{B40
+ Défense sicilienne / Variante Paulsen. La variante de Paulsen évite Cc6 de manière typique, avec le mouvement
+caractéristique 2... a6, préparant le développement de la Dame en c7. Elle peut prendre une apparence de hérisson ou s'ouvrir de
+manière dynamique.} 
+3.Bc4 
+{Hors du livre d'ouvertures. d4 se serait trouvé dans la ligne d'ouverture  Défense sicilienne / Variante Paulsen. Bloque
+Pion des noirs en c5 et permet un roque court.
+§¯³¹¨
+
+
+
+ý
+
+ýÿýÿÿýÿ
+¦ª²¤
+
+} 
+3...Bd6 4.O-O Bxh2+ 
+{Mène à 5.xh2 d5 6.exd5 exd5 7.e2 d4 8.d3 f6 9.f4 O-O 10.c4, ce qui permet de gagner deux Pions pour un
+Fou et un Pion. Ceci est mieux : c6, entraînant 5.c3 f6 6.e2 g4 7.d4 cxd4 8.b5 c5 9.f4 O-O, ce qui permet de gagner un
+Pion.} 
+5.Kxh2 
+{ Les blancs gagnent un Fou pour un Pion.} 
+5...Qc7+ 
+{Ceci est un peu mieux : d5.} 
+6.Kg1 
+{Le place hors de portée de prise.} 
+6...Ne7 
+{Permet un roque court.} 
+7.d4 Na6 
+{Ceci est un peu mieux : d5.} 
+8.dxc5 Qxc5 
+{Attaque Fou des blancs en c4.} 
+9.Qd4 
+{Cloue Pion des noirs en g7, retire la menace sur Fou des blancs en c4, et menace Pion des noirs en g7.} 
+9...Qxd4 
+{Cloue Pion des blancs en b2, libère Pion des noirs en g7 du clouage, retire la menace sur Pion des noirs en g7, et
+fait une fourchette Pion des blancs en e4 et Fou des blancs en c4.} 
+10.Nxd4 
+{Libère Pion des blancs en b2 du clouage et retire la menace sur Fou des blancs en c4 et Pion des blancs en e4. Les
+blancs gagnent une Dame et un Pion pour une Dame et un Pion.} 
+10...Nb4 
+{Éloigne le Cavalier du bord de l'échiquier.} 
+11.Bd2 
+{Attaque Cavalier des noirs en b4.} 
+11...Nxc2 
+{Mène à 12.xc2 d5 13.exd5 exd5 14.b3 e6 15.d4 c6 16.xc6 bxc6 17.e3 a5 18.c3, ce qui permet de gagner un
+Cavalier et deux Pions pour deux Cavaliers et un Pion. Ceci est mieux : bc6, entraînant 12.xc6 dxc6 13.b4 b6 14.d6 a5 15.c3
+a6 16.xa6 xa6 17.ad1, ce qui permet de gagner un Fou et un Cavalier pour un Fou et un Cavalier. Il s'agit de la principale
+erreur des noirs. Les noirs n'ont pas pu rétablir la situation et ont fini par être
+matés.
+§³¨
+
+
+
+ý
+
+ýÿÿý
+¦¤²
+} 
+12.Nxc2 
+{Retire la menace sur Tour des blancs en a1. Les blancs gagnent un Cavalier pour un Pion.} 
+12...Nc6 13.Bc3 
+{Cloue Pion des noirs en g7 et attaque Pion des noirs en g7.} 
+13...g6 
+{Ouille ! Suspend la Tour en h8. Mène à 14.xh8 a6 15.e5 b5 16.e2 f5 17.d1 f7 18.c3 b4 19.a4 g8, ce qui entraîne
+la perte de : une Tour. Ceci est bien mieux : O-O, entraînant 14.d1 a6 15.b4 e8 16.a3 b5 17.e2 xb4 18.xb4 b7 19.e5, ce
+qui permet de gagner un Cavalier pour un Cavalier.} 
+14.Bxh8 
+{Empêche l'adversaire d'effectuer un roque court.} 
+14...Nd4 
+{Suspend le Cavalier. Mène à 15.xd4 d6 16.f6 d7 17.d1 c8 18.ba3 c6 19.b5 d5 20.b4 b6, ce qui entraîne la
+perte de : un Cavalier. Ceci est mieux : d6, entraînant 15.f6 e5 16.e3 d7 17.h4 h6 18.d1 g5 19.g3 c5 20.xd6 xe4, ce
+qui permet de gagner un Pion pour un Pion.} 
+15.Nxd4 e5 
+{Suspend le Pion en e5. Mène à 16.b5 f8 17.xe5 d6 18.xd6+ g8 19.d5 a5 20.1c3 a6 21.ac1 h6 22.fd1 b6, ce
+qui entraîne la perte de : deux Pions. Ceci est mieux : d6, entraînant 16.f6 a6 17.c1 d7 18.b3 c8 19.xc8+ xc8 20.d2 e5
+21.c1 g4 22.4f3, ce qui permet de gagner une Tour pour une Tour.} 
+16.Bxe5 
+{Protège Cavalier des blancs en d4 et isole Pion des noirs en d7.} 
+16...b5 
+{Suspend le Pion en b5. Mène à 17.d5 b7 18.xb7 d8 19.xb5 f8 20.d6+ g7 21.xa7 f5 22.exf5 gxf5 23.c3 e8
+24.ab5, ce qui permet de gagner un Pion pour un Fou et trois Pions. Ceci est mieux : d6, entraînant 17.xd6 d7 18.d5 d8
+19.xb7 a4 20.e5 e7 21.c1 f6 22.c7+ d7, ce qui entraîne la perte de : deux Pions.} 
+17.Bxb5 
+{Mène à 17...a6 18.a4 b7 19.f4 e7 20.d2 f6 21.fc1 c8 22.xc8 xc8 23.c1, ce qui permet de gagner une Tour et un
+Pion pour une Tour. Ceci est mieux : d5, entraînant 17...b7 18.xb7 d8 19.xb5 f8 20.d6+ g7 21.xa7 f5 22.exf5 gxf5 23.c3
+e8 24.ab5, ce qui permet de gagner un Fou et trois Pions pour un Pion.} 
+17...Ke7 
+{Ceci est un peu mieux : a6.} 
+18.Bc4 
+{Ceci est un peu mieux : c3.} 
+18...Bb7 
+{Menace Pion des blancs en e4.} 
+19.Re1 
+{Protège Pion des blancs en e4.} 
+19...Rc8 
+{Menace Fou des blancs en c4.} 
+20.Nd2 
+{Protège Fou des blancs en c4.} 
+20...Rxc4 
+{Mène à 21.xc4 f6 22.d6+ d8 23.c5 a6 24.ad1 c8 25.e7 f5 26.d6+ b8 27.exf5, ce qui permet de gagner un Fou
+pour une Tour et un Pion. Ceci est mieux : a6, entraînant 21.ac1 f6 22.f4 h5 23.e2 xc1 24.xc1 g5 25.e3 h4 26.c7, ce qui
+permet de gagner une Tour pour une Tour.} 
+21.Nxc4 f5 
+{Mène à 22.exf5 d5 23.f6+ f8 24.d6+ f7 25.e5+ g8 26.ac1 h6 27.c8+ h7 28.e8 h5 29.f7 xf7 30.xf7, ce qui
+permet de gagner un Pion pour un Fou et un Pion. Ceci est mieux : h5, entraînant 22.d6+ d8 23.c5 c7 24.xa7 a6 25.ac1 f6
+26.ed1 b7 27.c5 xc4 28.xc4, ce qui permet de gagner un Cavalier pour un Fou et un Pion.} 
+22.exf5 
+{ Les blancs gagnent une Tour et un Pion pour un Fou. Les blancs mènent par deux Tours, deux Cavaliers, et un Pion.} 
+22...Bd5 
+{Attaque Cavalier des blancs en c4.} 
+23.f6+ 
+{Les blancs peuvent faire mat en 8. Protège Cavalier des blancs en c4, met le Roi des noirs en échec, et crée un Pion
+passé en f6. Mène à 23...f8 24.d6 h6 25.ac1 b7 26.f4 g8 27.f7+ g7 28.f8=+ xf8 29.e8+ g7 30.e5+ h7 31.h8# et échec
+et mat.} 
+23...Ke8 
+{Le place hors de portée de prise et menace Cavalier des blancs en c4.} 
+24.Nd6+ 
+{Les blancs peuvent faire mat en 3. Place la pièce en sécurité, met le Roi des noirs en échec, et bloque Pion des noirs
+en d7. Mène à 24...d8 25.4b5 c6 26.c3 xb5 27.a5# et échec et mat.} 
+24...Kd8 
+{Le place hors de portée de prise.} 
+25.N4b5 ( 25.Rac1 
+{Les blancs ratent le mat forcé. Ceci est bien mieux : 4b5, entraînant 25...e4 26.c3 c6 27.a5# et mat.} 
+25...Bc6 26.Nxc6+ 
+{Les blancs s'endorment au moment critique et ne voient pas le mat forcé. Ceci est bien mieux : 4b5,
+entraînant 26...g5 27.c3 xb5 28.a5# et mat.} 
+26...dxc6 
+{Retire la menace sur Roi des noirs et Pion des noirs en a7 et avance le Pion passé.} 
+27.Rxc6 
+{Les blancs gâchent leur chance de mat forcé. Ceci est bien mieux : f7, entraînant 27...d7 28.f8= c7 29.c8+ b6
+30.xc6+ a5 31.b5# et échec et mat.} 
+27...g5 
+{Les noirs donnent aux blancs une occasion de mat forcé. Ceci est bien mieux : d7. g5 mène à 28.c8+ d7 29.g3 g4
+30.e7# et échec et mat.} 
+28.Bg3 
+{Les blancs gâchent leur chance de mat forcé. Ceci est bien mieux : c8+, entraînant 28...d7 29.g3 g4 30.e7# et échec
+et mat.} 
+28...Kd7 
+{Attaque Tour des blancs en c6.} 
+29.Rc5 
+{Les blancs peuvent faire mat en 2. Place la pièce en sécurité et attaque Pion des noirs en g5. Mène à 29...a6 30.e7+
+d8 31.f7# et échec et mat.} 
+29...a6 30.f7 
+{Les blancs peuvent faire mat en 2. Ajoute une menace de promotion en f7. Mène à 30...h5 31.f8=+ d8 32.f7# et
+échec et mat.} 
+30...g4 
+{Place la pièce en sécurité.} 
+31.f8=Q 
+{Les blancs sont à un coup du mat. Menace de mater (Tour en e7). Mène à 31...a5 32.c8# et échec et mat.} 
+31...a5 32.Qe8# 
+{Mate le Roi des noirs.
+ª
+³
+
+¦
+
+
+ýÿÿý
+¦²
+} 
+) 25...Be4 26.Bc3 a6 27.Ba5# 1-0
+

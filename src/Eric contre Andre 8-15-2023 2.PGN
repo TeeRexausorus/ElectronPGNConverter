@@ -1,0 +1,152 @@
+[Event ""]
+[Site ""]
+[Date "2023.8.15"]
+[Round ""]
+[White "Eric"]
+[Black "Andre"]
+[TimeControl "-"]
+[Result "1-0"]
+[ECO " "]
+
+
+{Commentaires automatiques de Chessmaster: Grandmaster Edition. 10 secondes par coup.
+
+			Blancs	Noirs
+Coup de
+livre		2	1
+Quitter le livre		0	1
+CMX approuve		20	18
+CMX d�sapprouve	10	12
+% d'accord		67%	60%
+Erreur
+totale		8.39	28.56
+Erreur utile		0.00	3.02
+Mat rat� 		7	0
+Evolut. vers mat		0	1
+
+} 
+1.e4 
+{B00
+ Ouverture du Pion du Roi. L'ouverture du Pion du Roi est � la fois populaire et logique. Elle permet de contr�ler le
+centre, d'ouvrir des lignes pour la Dame et le Fou, pour se diriger vers une partie ouverte dans laquelle la tactique prime sur
+les man�uvres lentes.} 
+1...Nc6 
+{B00
+ D�fense Nimzowitsch. La d�fense Nimzowitsch du Pion du Roi essaye de diriger la partie vers des lignes obscures,
+sans donner aux blancs des cibles �videntes.} 
+2.Nf3 
+{B00
+ D�fense Nimzowitsch / Refus�. Le d�veloppement du Cavalier du Roi invite une transposition vers l'Espagnole, o� le
+tentant 2. d4 permet aux noirs der�pondre avec 2... e5, en jouant une sorte de d�fense d'Alekhine sur l'aile-dame.} 
+2...Nb4 
+{Hors du livre d'ouvertures. f5 se serait trouv� dans la ligne d'ouverture  D�fense Nimzowitsch / Refus� /
+Contre-gambit du Colorado. Ceci est un peu mieux :
+e5.
+��������
+��������
+��������
+��������
+��������
+��������
+��������
+��������
+} 
+3.a3 
+{Attaque Cavalier des noirs en b4.} 
+3...Nd3+ 
+{M�ne � 4.Fxd3 e6 5.Cc3 d5 6.O-O c6 7.b3 Cf6 8.e5 Cd7 9.Fb2 Fc5 10.Ce2, ce qui entra�ne la perte de : un Cavalier.
+Ceci est mieux : Cc6, entra�nant 4.d4 e6 5.Cc3 d5 6.Fb5 Cf6 7.Fg5 Fe7 8.O-O h6 9.exd5 hxg5 10.dxc6, ce qui permet de gagner un
+Fou pour un Cavalier et un Pion. Cette erreur n'entra�nait pas les noirs vers une d�faite in�luctable, mais les blancs ont quand
+m�me mat�.
+��������
+��������
+��������
+��������
+��������
+��������
+��������
+��������
+} 
+4.Bxd3 
+{Prot�ge Roi des blancs.} 
+4...f5 
+{Ceci est un peu mieux : e6.} 
+5.exf5 
+{ Les blancs gagnent un Cavalier et un Pion. Les blancs m�nent par un Cavalier et un Pion en mat�riel.} 
+5...c5 6.b4 
+{Menace Pion des noirs en c5.} 
+6...c4 
+{Ceci est un peu mieux : cxb4.} 
+7.Bxc4 
+{ Les blancs gagnent un Pion. Les blancs m�nent par un Cavalier et deux Pions.} 
+7...Qb6 8.O-O Qxf2+ 
+{Ouvrez l'�il. M�ne � 9.Txf2 b5 10.Ff7+ Rd8 11.Cc3 Cf6 12.d3 a6 13.Fe3 Fb7 14.Fb6+ Rc8 15.Dd2 e6 16.fxe6,
+ce qui permet de gagner un Pion pour une Dame et un Pion. Ceci est bien mieux : d5, entra�nant 9.Fxd5 Cf6 10.Fb3 Fxf5 11.d3 e6
+12.Fe3 Dc7 13.Fa4+ Rd8 14.Cbd2, ce qui permet de gagner un Pion pour un Pion.} 
+9.Rxf2 
+{Prot�ge Roi des blancs. Les blancs gagnent une Dame pour un Pion. Les blancs m�nent par une Dame, un Cavalier, et un
+Pion.} 
+9...g6 
+{Ceci est un peu mieux : Cf6.} 
+10.Bb2 
+{Menace Tour des noirs en h8.} 
+10...b5 
+{Suspend le Pion en b5. M�ne � 11.Ff7+ Rxf7 12.Cg5+ Re8 13.fxg6 Cf6 14.Df3 Tb8 15.Fxf6 hxg6 16.Fxh8 Fh6 17.Df7+ Rd8
+18.Qf4 Bxg5 19.Qxb8, ce qui permet de gagner un Bou, un Navalier, et un Pion pour deux Rours, un Navalier, et un Pion. Neci est
+mieux : Cf6, entra�nant 11.Cc3 Fg7 12.Cd5 b5 13.De2 Cxd5 14.Fxg7 bxc4 15.Fxh8 Fa6 16.De4, ce qui permet de gagner un Fou et un
+Cavalier pour une Tour et un Fou.} 
+11.Bxb5 
+{M�ne � 11...Cf6 12.Cg5 Fh6 13.Fxf6 exf6 14.De2+ Rf8 15.Cf7 a6 16.Fd3 Fb7 17.Cxh8 Rg8 18.Fe4, ce qui permet de gagner
+une Tour, un Cavalier, et un Pion pour un Fou. Ceci est mieux : Ff7+, entra�nant 11...Rxf7 12.Cg5+ Re8 13.fxg6 Cf6 14.Df3 Tb8
+15.Bxf6 hxg6 16.Bxh8 Bh6 17.Qf7+ Kd8 18.Qf4 Bxg5 19.Qxb8, ce qui permet de gagner deux Rours, un Navalier, et un Pion pour un
+Fou, un Cavalier, et un Pion.} 
+11...a6 
+{M�ne � 12.Cg5 axb5 13.Df3 Ta6 14.Dc3 Tc6 15.Dxh8 Cf6 16.Te2 h6 17.Fxf6 e6, ce qui permet de gagner un Fou pour une
+Tour et un Cavalier. Ceci est mieux : Cf6, entra�nant 12.Cg5 Fh6 13.Fxf6 exf6 14.De2+ Rf8 15.Cf7 a6 16.Fd3 Fb7 17.Cxh8 Rg8
+18.Fe4, ce qui permet de gagner un Fou pour une Tour et un Cavalier.} 
+12.Bc4 
+{Lib�re Pion des noirs en d7 du clouage. M�ne � 12...Cf6 13.Fxf6 exf6 14.De2+ Rd8 15.Fd5 Ta7 16.De3 Tb7 17.Fxb7 Fxb7
+18.Db6+ Rc8 19.Dxf6 Tg8 20.fxg6 hxg6, ce qui permet de gagner une Tour, un Cavalier, et deux Pions pour deux Fous et un Pion.
+Ceci est mieux : Cg5, entra�nant 12...axb5 13.Df3 Ta6 14.Dc3 Tc6 15.Dxh8 Cf6 16.Te2 h6 17.Fxf6 e6, ce qui permet de gagner une
+Tour et un Cavalier pour un Fou.} 
+12...e5 
+{Eh bien ! Suspend le Pion en e5. M�ne � 13.fxe6ep dxe6 14.Fxh8 Ch6 15.Cg5 Fe7 16.Cxe6 Tb8 17.Df3 Cf5 18.Cc3 Fb7, ce
+qui permet de gagner un Pion pour une Tour et deux Pions. Ceci est bien mieux : Cf6, entra�nant 13.Fxf6 exf6 14.De2+ Rd8 15.Fd5
+Ta7 16.De3 Tb7 17.Fxb7 Fxb7 18.Db6+ Rc8 19.Dxf6 Tg8 20.fxg6 hxg6, ce qui permet de gagner deux Fous et un Pion pour une Tour, un
+Cavalier, et deux Pions.} 
+13.Bxe5 
+{Menace Tour des noirs en h8 et isole Pion des noirs en d7.} 
+13...d6 
+{M�ne � 14.Fxh8 Ce7 15.f6 Cf5 16.De2+ Rd8 17.g4 a5 18.gxf5 Fxf5 19.Fg7 Rc7 20.Cd4, ce qui permet de gagner un Pion pour
+une Tour et un Cavalier. Ceci est mieux : Ce7, entra�nant 14.Fxh8 d5 15.fxg6 hxg6 16.Cd4 Fb7 17.Fb3 Fh6 18.Fa4+ Rd8 19.Ce6+ Rc8
+20.Tf7 Cf5, ce qui permet de gagner un Pion pour une Tour et un Pion.} 
+14.Bxh8 
+{Menace Cavalier des noirs.} 
+14...Bxf5 
+{M�ne � 15.Fxg8 Fe7 16.Cd4 Tc8 17.Cxf5 gxf5 18.Fe6 Rd8 19.Fxc8 Rxc8 20.De2 Rd7 21.Txf5 a5 22.Txa5, ce qui permet de
+gagner un Fou, un Cavalier, et un Pion pour une Tour, un Fou, un Cavalier, et deux Pions. Ceci est mieux : Ce7, entra�nant 15.f6
+Cf5 16.De2+ Rd8 17.g4 a5 18.gxf5 Fxf5 19.Cd4 axb4 20.Cxf5 gxf5 21.Txf5, ce qui permet de gagner un Cavalier et deux Pions pour
+un Fou, un Cavalier, et un Pion.} 
+15.Qe1+ 
+{M�ne � 15...Ce7 16.Cd4 d5 17.Fxd5 Tc8 18.g4 Fd7 19.Txf8+ Rxf8 20.Fg7+ Rxg7 21.Dxe7+ Rh6 22.g5+ Rh5 23.Dxd7 Tb8, ce qui
+permet de gagner deux Fous, un Cavalier, et un Pion pour une Tour et un Fou. Ceci est mieux : Fxg8, entra�nant 15...Fe7 16.Cd4
+Tc8 17.Cxf5 gxf5 18.Fe6 Rd8 19.Fxc8 Rxc8 20.De2 Rd7 21.Txf5 a5 22.Txa5, ce qui permet de gagner une Tour, un Fou, un Cavalier,
+et deux Pions pour un Fou et un Cavalier.} 
+15...Ne7 
+{Place la pi�ce hors de danger imm�diat, retire la menace sur Roi des noirs, et menace Pion des blancs en c2.} 
+16.Nd4 
+{Prot�ge Pion des blancs en c2.} 
+16...Bxc2 
+{Les noirs entrent en situation de mat forc�. Ceci est bien mieux : Rd7. Fxc2 m�ne � 17.De6 Ff5 18.Cxf5 gxf5 19.Txf5
+Fh6 20.Tf7 Ta7 21.Txe7+ Rd8 22.Dxd6+ Rc8 23.Fxa6+ Txa6 24.Dc7# et �chec et mat.} 
+17.Nxc2 
+{Les blancs peuvent faire mat en 9.  M�ne � 17...Tc8 18.Fb3 Fh6 19.De6 Tc7 20.Dxd6 Tc4 21.Fa4+ Tc6 22.Fxc6+ Cxc6
+23.Dxc6+ Re7 24.Te2+ Fe3+ 25.Txe3+ Rd8 26.Ff6# et mat.} 
+17...h6 18.Rxf8+ 
+{Les blancs ratent le mat forc�. Ceci est bien mieux : De6, entra�nant 18...Fg7 19.Fxg7 Rd8 20.Dxd6+ Rc8
+21.Tf8+ Rb7 22.Dd7+ Rb6 23.Fd4# et mat.} 
+18...Kxf8 
+{ Les noirs gagnent une Tour et un Pion pour deux Fous. Les blancs gagnent une Dame, deux Fous, un Cavalier, et un
+Pion.} 
+19.Bf6 
+{Les blancs peuvent faire mat en 9. Menace d'�chec et mat (Dame prend Cavalier). M�ne � 19...Ta7 20.De3 Tb7 21.Dxh6+ Re8
