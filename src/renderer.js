@@ -15,10 +15,13 @@ document.getElementById('dropZone').ondrop = (event) => {
 
     let file = event.dataTransfer.files[0];
     let filePath = file.path;
-    console.log(filePath);
-    let filename = filePath.split("/").slice(-1)[0];
+    let filename = '';
+    if (filePath.includes('/')){
+        filename = filePath.split("/").slice(-1)[0];
+    } else {
+        filename = filePath.split("\\").slice(-1)[0];
+    }
     this.outputfilename = filename.replace('.PGN', '_output.PGN');
-    console.log(this.filename, filename);
     let output = '';
     fs.readFile(filePath, {encoding: 'latin1'}, (err, data) => {
         let ignore = true;
