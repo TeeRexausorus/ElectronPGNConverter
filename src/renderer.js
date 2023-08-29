@@ -37,11 +37,11 @@ document.getElementById('dropZone').ondrop = (event) => {
             let to = en;
 
             output += ignore ? char : char
-                .replaceAll(from.KING, to.KING)
-                .replaceAll(from.QUEEN,to.QUEEN)
-                .replaceAll(from.ROOK,to.ROOK)
-                .replaceAll(from.BISHOP,to.BISHOP)
-                .replaceAll(from.KNIGHT,to.KNIGHT)
+                .replace(from.KING, to.KING)
+                .replace(from.QUEEN,to.QUEEN)
+                .replace(from.ROOK,to.ROOK)
+                .replace(from.BISHOP,to.BISHOP)
+                .replace(from.KNIGHT,to.KNIGHT)
         }
         console.log(filename, output);
         if (err) {
